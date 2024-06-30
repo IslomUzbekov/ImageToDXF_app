@@ -1,5 +1,5 @@
-from src.utils.dxf_operations import save_to_dxf
-from src.utils.image_processing import process_image
+from utils.dxf_operations import save_to_dxf
+from utils.image_processing import process_image
 
 
 def convert_image_to_dxf(image_path, dxf_path):

@@ -7,12 +7,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="ImageToDXF",
     version="0.1.0",
-    author="Ваше Имя",
-    author_email="your.email@example.com",
-    description="A simple tool to convert images to DXF format.",
+    author="Islom",
+    author_email="uzbekov32@mail.ru",
+    description="Приложения для конвертации картинки в dxf файл.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ImageToDXF",
+    url="https://github.com/IslomUzbekov/ImageToDXF",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

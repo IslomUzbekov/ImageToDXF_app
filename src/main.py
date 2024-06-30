@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-from convertor.img_to_dxf import convert_image_to_dxf
+from convertor.image_to_dxf import convert_image_to_dxf
 
 
 class ImageToDXFApp:
